@@ -1,4 +1,4 @@
-Hi 👋 My name is Christian Najera -------------------  FullStack Developer -------------------  I've been working as a software engineer for about 7+ years and I've collaborated for different companies in different areas. The main tech I use to work with is ReactJS for the FrontEnd and NodeJS/Python for the BackEnd.  * 🌍  I'm based in Honduras
+Hi 👋 My name is Christian Najera -------------------  FullStack Engineer -------------------  I've been working as a software engineer for about 8 years and I've collaborated for different companies in different areas. The main tech I use to work with is ReactJS for the FrontEnd and NodeJS/Python for the BackEnd.  * 🌍  I'm based in Honduras
 
 ### Skills
 
